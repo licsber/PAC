@@ -42,15 +42,16 @@ g.live.com/
 
 ! aws有关的
 s3.amazonaws.com/
-discuss.gluon.ai/
-.cloudfront.net/
-.mxnet.io/
-.gluon.ai/
+! discuss.gluon.ai/
+! .cloudfront.net/
+! .mxnet.io/
+! .gluon.ai/
 
 ! 代码类
 stackoverflow.com/
 fontawesome.com/
 .codeforces.com/
+.kaggle.com/
 
 ! 谷歌家
 hub.docker.com/
