@@ -60,5 +60,6 @@ hub.docker.com/
 arxiv.org/
 docs.conda.io/
 wikimedia.org/
+mediawiki.org/
 
 ```
