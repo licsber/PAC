@@ -39,6 +39,7 @@ g.live.com/
 .gitbooks.io/
 .github.io/
 .github.com/
+.githubassets.com/
 
 ! aws有关的
 s3.amazonaws.com/
