@@ -64,6 +64,7 @@ wikimedia.org/
 mediawiki.org/
 
 ! Docker Hub相关
-.cloudfront.net
+.cloudfront.net/
+.mouseflow.com/
 
 ```
