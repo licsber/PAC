@@ -67,4 +67,7 @@ mediawiki.org/
 .cloudfront.net/
 .mouseflow.com/
 
+! Vue相关
+.vuejs.org/
+
 ```
